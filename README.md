@@ -8,10 +8,8 @@ I am Inayathulla Khan, a seasoned professional with extensive experience in soft
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/inayathullakhan/)
-- [GitHub](https://github.com/inayathulla)
 
 Feel free to connect with me and explore the exciting world of technology together!
-
 <!--
 **inayathulla/inayathulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
