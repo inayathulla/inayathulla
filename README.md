@@ -5,7 +5,7 @@ I am Inayath, a seasoned professional with extensive experience in software deve
 ### 🔭 I’m currently working on ...
 Distributed, scalable, high-performance applications.
 
-### 👯 I’m looking to collaborate on 
+### 🧑‍🤝‍🧑 I’m looking to collaborate on 
 - Open-source projects with significant impact.
 
 ### Hands On
